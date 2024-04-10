@@ -1,0 +1,22 @@
+.header-section {
+    background-color: #ff6900;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.col img {
+    max-width: 110px;
+}
